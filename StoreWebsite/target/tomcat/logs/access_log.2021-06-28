@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:33 +0400] "GET / HTTP/1.1" 200 1326 http-bio-8080-exec-2 2353
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:33 +0400] "GET /favicon.ico HTTP/1.1" 200 1326 http-bio-8080-exec-3 70
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:35 +0400] "GET /showProduct?id=TLJa HTTP/1.1" 200 483 http-bio-8080-exec-4 281
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:35 +0400] "GET /store-images/JapaneseTShirt.jpg HTTP/1.1" 404 1017 http-bio-8080-exec-6 272
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:36 +0400] "GET /favicon.ico HTTP/1.1" 200 1326 http-bio-8080-exec-7 311
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:37 +0400] "POST /shoppingCart HTTP/1.1" 200 516 http-bio-8080-exec-8 464
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:37 +0400] "GET /favicon.ico HTTP/1.1" 200 1326 http-bio-8080-exec-9 96
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:40 +0400] "POST /shoppingCart HTTP/1.1" 200 516 http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:40 +0400] "GET /favicon.ico HTTP/1.1" 200 1326 http-bio-8080-exec-10 88
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:44 +0400] "POST /shoppingCart HTTP/1.1" 200 516 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:47 +0400] "POST /shoppingCart HTTP/1.1" 200 516 http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2021:22:11:49 +0400] "POST /shoppingCart HTTP/1.1" 200 435 http-bio-8080-exec-8 8
